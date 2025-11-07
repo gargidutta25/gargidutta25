@@ -5,10 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargidutta25&label=Profile%20views&color=0e75b6&style=flat" alt="gargidutta25" /> </p>
 
-- 🔭 I’m currently working on **Analysing Customer Shopping Behavior of a store**
+ 🚀  About Me:
+- **I am ✨ Gargi Dutta✨ , I’m a results-oriented Aspiring Data Analyst with 5 years of experience as a System Engineer and Analyst at TCS. After transitioning from IT in 2022, I’ve focused on mastering Excel, SQL, Power BI, and Python to derive insights from data. I have honed my abilities in optimizing data pipelines, conducting data correlations analysis, and creating impactful data visualizations. My passion lies in using data-driven insights to solve complex problems and drive business strategies. I'm always eager to learn and explore the latest trends in data analytics and data science. Let's connect and explore the fascinating world of data together!**
 
-- 🌱 I’m currently learning **Python Libraries like Matplotlib, Seaborn**
+🛠 **Skills**
+- **Programming languages**: Python
+- **Databse:** MySQL, Oracle 
+- **Data Visualization/Business Intelligence**: Excel, Tableau, Power BI, Matplotlib, Seaborn
+- **Data Analysis**:**  NumPy, Pandas**
 
+ 🌱 I’m currently learning **Python Libraries like Matplotlib, Seaborn**
 - 📫 How to reach me **gargidutta168@gmail.com**
 
 - ⚡ Fun fact **I am funny**
