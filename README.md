@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gargi Dutta</h1>
 <h3 align="center">Data Analyst skilled in Excel, SQL, Power BI, and Python with a background in systems engineering.</h3>
 
-<imp align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/6a5d95f90faf63ed6a558facf69c17e208351cac026c853a3c9793b29a99f4c4/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966">
+<imp align="right" alt="coding" width="400" src= "https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargidutta25&label=Profile%20views&color=0e75b6&style=flat" alt="gargidutta25" /> </p>
 
